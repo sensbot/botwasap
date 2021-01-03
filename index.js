@@ -119,7 +119,7 @@ conn.sendMessage(id ,`${gg} ${exists ? " exists " : " does not exist"} on WhatsA
 }
 
 else if (text == 'assalamualaikum'){
-conn.sendMessage(id, '3aalaikumsalam, Ketik #menu/#info/#donasi Contoh #menu' ,MessageType.text);
+conn.sendMessage(id, 'Waalaikumsalam, Ketik #menu/#info/#donasi Contoh #menu' ,MessageType.text);
 }
 else if (text == 'salam'){
 conn.sendMessage(id, 'Waalaikumsalam, Ketik #menu/#info/#donasi Contoh #menu' ,MessageType.text);
@@ -143,13 +143,7 @@ else if (text == 'Asu'){
 conn.sendMessage(id, 'Lu Asw' ,MessageType.text);
 }
 else if (text == '#owner'){
-conn.sendMessage(id, 'Owner XBOT wa.me/+6282334297175' ,MessageType.text);
-}
-else if (text == 'affis'){
-conn.sendMessage(id, 'Aku BOT nya XBOT' ,MessageType.text);
-}
-else if (text == 'audio'){
-conn.sendMessage(id, 'pacar owner ihh' ,MessageType.text);
+conn.sendMessage(id, 'Owner SENSI BOT🤖 wa.me/+6285964224017' ,MessageType.text);
 }
 else if (text == 'bangsat'){
 conn.sendMessage(id, 'toxic terdeteksi' ,MessageType.text);
@@ -158,7 +152,7 @@ else if (text == 'Ngentod'){
 conn.sendMessage(id, 'Pengin ngentod?' ,MessageType.text);
 }
 else if (text == 'Anjing'){
-conn.sendMessage(id, 'Jangan toxic anjing' ,MessageType.text);
+conn.sendMessage(id, 'Jangan toxic jir' ,MessageType.text);
 }
 else if (text == 'Bacot'){
 conn.sendMessage(id, 'lu bacot_-' ,MessageType.text);
