@@ -1,6 +1,6 @@
 {
-  "name": "XBOT",
-  "version": "1.0.0",
+  "name": "SENSI BOT🤖",
+  "version": "4.0.0",
   "description": "khusus termux",
   "main": "index.js",
   "directories": {
@@ -34,7 +34,7 @@
   "keywords": [
     "k"
   ],
-  "author": "Abdul Muttaqin",
+  "author": "SENSI",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/affisjunianto/botwasap/issues"
