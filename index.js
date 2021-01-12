@@ -1,4 +1,4 @@
-const  XBOT = 'LEO'; // Nama Bot Whatsapp
+const  XBOT = 'LEO BOT'; // Nama Bot Whatsapp
 const instagram = 'eror yet'; // Nama Instagramlu cok
 const nomer = 'https://Wa.me/+6285656214208'; // Nomor whatsapplu cok
 const aktif = 'Tergantung Owner'; // Kapan bot lu aktif
