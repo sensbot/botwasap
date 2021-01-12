@@ -1,9 +1,9 @@
-const  XBOT = 'SENSI BOT🤖'; // Nama Bot Whatsapp
-const instagram = 'https://instagram.com/sensi.edtz_'; // Nama Instagramlu cok
-const nomer = 'https://Wa.me/+6285964224017'; // Nomor whatsapplu cok
-const aktif = 'Tergantung kuota'; // Kapan bot lu aktif
+const  XBOT = 'LEO'; // Nama Bot Whatsapp
+const instagram = 'eror yet'; // Nama Instagramlu cok
+const nomer = 'https://Wa.me/+6285656214208'; // Nomor whatsapplu cok
+const aktif = 'Tergantung Owner'; // Kapan bot lu aktif
 const groupwa = 'comming soon'; // OFFICIAL GRUP LU 1
-const youtube = 'eror yet🤖'; 
+const youtube = 'eror yet'; 
 const qrcode = require("qrcode-terminal");
 const moment = require("moment");
 const cheerio = require("cheerio");
@@ -21,8 +21,8 @@ const speed = require('performance-now');
 const readTextInImage = require('./lib/ocr')
 const vcard = 'BEGIN:VCARD\n' // metadata of the contact card
             + 'VERSION:3.0\n' 
-            + 'FN:affis\n' // full name
-            + 'ORG:Owner  SENSI BOT🤖;\n' // the organization of the contact
+            + 'FN:LEO\n' // full name
+            + 'ORG:Owner LEO BOT;\n' // the organization of the contact
             + 'TEL;type=CELL;type=VOICE;waid=6285964224017:+62 859-6422-4017\n' // WhatsApp ID + phone number
             + 'END:VCARD'
 
@@ -143,7 +143,7 @@ else if (text == 'Asu'){
 conn.sendMessage(id, 'Lu Asw' ,MessageType.text);
 }
 else if (text == '#owner'){
-conn.sendMessage(id, 'Owner SENSI BOT🤖 wa.me/+6285964224017' ,MessageType.text);
+conn.sendMessage(id, 'Owner LEO BOT wa.me/+6285656214208' ,MessageType.text);
 }
 else if (text == 'bangsat'){
 conn.sendMessage(id, 'toxic terdeteksi' ,MessageType.text);
